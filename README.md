@@ -15,3 +15,6 @@
 Successfully executed responsibilities within stipulated timelines, including designing data pipelines for pre-processing and transformation using pandas and scikit-learn, 
 implementing advanced deep learning models for image classification or NLP tasks with TensorFlow or PyTorch, developed data science models independently using Flask, and 
 addressed complex business challenges through optimization techniques to generate strategic insights.
+
+# OUTPUT OF THE CODE
+https://github.com/Vishwa1123/ETL_Pipeline/issues/1#issue-2958988210
