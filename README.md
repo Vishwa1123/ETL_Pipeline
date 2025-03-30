@@ -17,4 +17,4 @@ implementing advanced deep learning models for image classification or NLP tasks
 addressed complex business challenges through optimization techniques to generate strategic insights.
 
 # OUTPUT OF THE CODE
-https://github.com/Vishwa1123/ETL_Pipeline/issues/1#issue-2958988210
+![Output](https://github.com/user-attachments/assets/09403ccd-f097-4bff-8656-fe9a1f017574)
